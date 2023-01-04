@@ -1,0 +1,2 @@
+import{A as t}from"./index.f7fcdec1.js";import"./index.e21f89ad.js";import"./iframe.5cd510e4.js";import"./index.670124d3.js";import"./jsx-runtime.0bee7303.js";const e={title:"Data display/Avatar",component:t,args:{src:"https://avatars.githubusercontent.com/u/28713622?v=4",alt:"Jonatas Melo Silva"},argTypes:{src:{control:{type:"text"}},alt:{control:{type:"text"}}}},c={},l={args:{src:void 0,alt:void 0}},p=["Primary","WithFallback"];export{c as Primary,l as WithFallback,p as __namedExportsOrder,e as default};
+//# sourceMappingURL=Avatar.stories.29e03f23.js.map
