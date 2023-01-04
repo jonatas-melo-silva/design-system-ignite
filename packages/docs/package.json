@@ -27,10 +27,10 @@
     "vite": "^3.1.4"
   },
   "dependencies": {
-    "@design-system-ignite/eslint-config": "*",
+    "@ignite-ui/eslint-config": "*",
     "@design-system-ignite/react": "*",
     "@design-system-ignite/tokens": "*",
-    "@design-system-ignite/ts-config": "*",
+    "@ignite-ui/ts-config": "*",
     "@storybook/addon-a11y": "^6.5.15",
     "phosphor-react": "^1.4.1",
     "polished": "^4.2.2",
